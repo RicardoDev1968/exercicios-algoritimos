@@ -1,7 +1,0 @@
-print('Transformador de Metros em centimetros e milimetros')
-print('.')
-print('..')
-print('...')
-n = int(input('Qual o valor do metro meu rei?'))
-print(f'{n} convertido para centimetros: {n*100}', end=' ')
-print(f'e para milimetros é {n*1000} ')

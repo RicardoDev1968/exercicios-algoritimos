@@ -1,6 +1,0 @@
-print('Olá Mundo!')
-print('.')
-print('..')
-print('...')
-estado =input('Como você está?')
-print(f'Que bom que você está {estado}')
